@@ -32,7 +32,7 @@ Solutions are organized for clarity and scalability:
 
 | Platform | Problems Solved | Profile |
 | :--- | :--- | :--- |
-| **Codeforces** | 20+ | [kaplan_1798](https://codeforces.com/profile/kaplan_1798) |
+| **Codeforces** | 20+ | [Ruqia_1798](https://codeforces.com/profile/Ruqia_1798) |
 | **LeetCode** | - | *Planned* |
 | **HackerRank** | - | *Planned* |
 
